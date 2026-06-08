@@ -15,6 +15,8 @@
 ### -★1hw v3(cursortrail) | ↺ <a href="./skins/-✯1hw v3(no cursortrail).osk">download</a> ↺*
 ![Preview](./skins/preview/-1hwv3nocursortrail.osk.gif)
 ##
-### Skin for DT | -✯NyanPotato HDDT (Hello Kitty x Pigeon ver.).osk | ↺ <a href="./skins/-✯NyanPotato HDDT (Hello Kitty x Pigeon ver.).osk">download</a> ↺*
+### Skin for DT | -✯NyanPotato HDDT (Hello Kitty x Pigeon ver.) | ↺ <a href="./skins/-✯NyanPotato HDDT (Hello Kitty x Pigeon ver.).osk">download</a> ↺*
 ![Preview](./skins/preview/-✯NyanPotatoHDDT(HelloKittyxPigeonver.).osk.gif)
 ##
+### Skin for low AR | -✯a (splitty edit) | ↺ <a href="./skins/-✯a (splitty edit).osk">download</a> ↺*
+![Preview](./skins/preview/-✯a(splittyedit).osk.gif)

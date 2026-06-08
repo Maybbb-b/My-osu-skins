@@ -9,3 +9,6 @@
 ### Second nomod skin | -✯azerinoo | ↺ *[download](./skins/-✯azerinoo.osk)* ↺
 ![Preview](./skins/preview/-✯azerinoo.osk.gif)
 ##
+### Third nomod skin | -✯1hw v3(cursortrail) | ↺ *[download](./skins/-✯1hw v3(cursortrail).osk)* ↺
+![Preview](./skins/preview/-✯azerinoo.osk.gif)
+##

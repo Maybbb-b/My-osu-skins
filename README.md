@@ -2,4 +2,4 @@
 
 ---
 
-## 1. Скин: -✯1bubbleskin20_10_09](./skins/-✯1bubbleskin20_10_09.osk)
+## [★1bubbleskin20_10_09](./skins/-★1bubbleskin20_10_09.osk)

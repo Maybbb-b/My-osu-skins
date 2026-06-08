@@ -11,7 +11,7 @@
 ### **Third nomod skin | -★1hw v3(cursortrail) | ↺ <a href="./skins/-✯1hw v3(cursortrail).osk">download</a> ↺**
 ![Preview](./skins/preview/-1hwv3cursortrail.osk.gif)
 ##
-### -★1hw v3(cursortrail) | ↺ <a href="./skins/-✯1hw v3(no cursortrail).osk">download</a> ↺*
+### -★1hw v3(no cursortrail) | ↺ <a href="./skins/-✯1hw v3(no cursortrail).osk">download</a> ↺*
 ![Preview](./skins/preview/-1hwv3nocursortrail.osk.gif)
 ##
 ### Skin for DT | -✯NyanPotato HDDT (Hello Kitty x Pigeon ver.) | ↺ <a href="./skins/-✯NyanPotato HDDT (Hello Kitty x Pigeon ver.).osk">download</a> ↺*

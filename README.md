@@ -7,3 +7,5 @@
 
 ## The same skin, but for EZ mode 🟥 🟨 -★1bubbleskin20_10_09 [EZ] 🟦 🟩 | ↺ *[download](./skins/-✯1bubbleskin20_10_09(EZ).osk)* ↺
 ![Preview](./skins/preview/-✯1bubbleskin20_10_09(EZ).osk.gif)
+
+## Alternative nomod skin -✯azerinoo.osk | ↺ *[download](./skins/-✯azerinoo.osk)* ↺

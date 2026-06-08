@@ -1,4 +1,5 @@
-# My skins in <img src="https://camo.githubusercontent.com/24751777ae59a20508650c3c55704545bb98aefddac920ea8e302b2522214306/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f6f73752e706e67" width="40" height="40" valign="middle" />
+# My skins in# My skins in <img src="https://githubusercontent.com" width="32" height="32" valign="middle" />
+
 
 
 

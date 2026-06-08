@@ -1,4 +1,4 @@
-#  My skins in osu! <img src="https://osu.ppy.sh/images/favicon/favicon-32x32.png" width="40" height="40" valign="middle" />
+# <img src="https://osu.ppy.sh/images/favicon/favicon-32x32.png" width="40" height="40" valign="middle" /> My skins in osu!
 
 
 

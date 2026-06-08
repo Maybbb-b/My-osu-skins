@@ -10,5 +10,5 @@
 ![Preview](./skins/preview/-✯azerinoo.osk.gif)
 ##
 ### **Third nomod skin | -★1hw v3(cursortrail) | ↺ <a href="./skins/-✯1hw v3(cursortrail).osk">download</a> ↺**
-![Preview](./skins/preview/-✯azerinoo.osk.gif)
+![Preview](./skins/preview/-1hwv3cursortrail.osk.gif)
 ##

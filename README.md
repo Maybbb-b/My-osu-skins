@@ -1,4 +1,4 @@
-# 🎮 My skins in osu!
+#  My skins in osu!
 
 
 

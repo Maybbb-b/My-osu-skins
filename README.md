@@ -6,6 +6,6 @@
 ![Preview](./skins/preview/-✯1bubbleskin20_10_09.osk.gif)
 
 ## The same skin, but for EZ mode 🟥 🟨 -★1bubbleskin20_10_09 [EZ] 🟦 🟩 | ↺ *<a href="./skins/-★1bubbleskin20_10_09 [EZ].osk">download</a>* ↺
-<img src="./skins/preview/-%E2%98%851bubbleskin20_10_09%20%5BEZ%5D.gif" />
+<img src="./skins/preview/-✯1bubbleskin20_10_09 [EZ].osk.gif" />
 
 
